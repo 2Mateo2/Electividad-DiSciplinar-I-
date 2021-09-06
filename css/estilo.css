@@ -1,0 +1,28 @@
+body{
+background-color: rgb(92, 186, 188);
+}
+
+h1{
+color: red;    
+}
+
+h2{
+color: brown;    
+}
+
+p{
+color: blue;    
+}
+
+li{
+color:blue;    
+}
+
+b{
+color: green;    
+}
+
+i{
+background-color: black; 
+color: aliceblue;   
+}
